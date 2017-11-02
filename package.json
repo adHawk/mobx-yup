@@ -1,0 +1,26 @@
+{
+  "name": "mobx-yup",
+  "version": "1.0.0",
+  "description": "Support mobx observables in yup",
+  "main": "index.js",
+  "repository": "https://github.com/adhawk/mobx-yup",
+  "author": "Ian Ker-Seymer",
+  "license": "MIT",
+  "dependencies": {
+    "mobx": "^3.3.1"
+  },
+  "typings": "index",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-es2015": "^6.24.1"
+  },
+  "scripts": {
+    "build": "babel src --out-dir lib"
+  },
+  "files": [
+    "lib",
+    "index.d.ts"
+  ]
+}
