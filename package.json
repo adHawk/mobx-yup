@@ -2,7 +2,7 @@
   "name": "mobx-yup",
   "version": "1.0.2",
   "description": "Support mobx observables in yup",
-  "main": "index.js",
+  "main": "lib/index.js",
   "repository": "https://github.com/adhawk/mobx-yup",
   "author": "Ian Ker-Seymer",
   "license": "MIT",
