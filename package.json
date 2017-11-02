@@ -7,7 +7,8 @@
   "author": "Ian Ker-Seymer",
   "license": "MIT",
   "dependencies": {
-    "mobx": "^3.3.1"
+    "mobx": "^3.3.1",
+    "yup": "^0.23.0"
   },
   "typings": "index",
   "devDependencies": {
